@@ -7,7 +7,7 @@ function HeroSection(){
         <section className="HeroSection">
             <div className='hero'>
                 <div className="hero-right">
-                    <img className='hero-img' src="../../public/Hero img.png" alt="solar system" />
+                    <img className='hero-img' src="/Hero img.png" alt="solar system" />
                 </div>
                 <div className="hero-left">
                     <div className='hero-details'>
